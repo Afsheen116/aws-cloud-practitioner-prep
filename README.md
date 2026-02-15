@@ -7,7 +7,7 @@ The goal is to build strong foundational knowledge in cloud computing, AWS core 
 ## 📈 Progress Tracker
 
 - [x] Module 1 – Introduction to Cloud
-- [ ] Module 2 – Compute in the Cloud
+- [x] Module 2 – Compute in the Cloud
 - [ ] Module 3 – Global Infrastructure
 - [ ] Module 4 – Networking Basics
 - [ ] Module 5 – Storage & Databases
@@ -35,3 +35,7 @@ AZs consist of one or more data centers inside it with redundant power , network
 (a) software for compute storage.
 ( b) database and networking 
 (c) hardware and AWS global infrastructure.
+
+## ☁️ Module 2 – Compute in the  Cloud
+I learned  about compute,   how Amazon EC2 and cloud resources help scale applications.  Gained knowledge of EC2 instance types, pricing options, and how to choose the best instance types for your unique business needs, also became familiar with using AWS tools and services like Elastic Load Balancing, Amazon EC2 Auto Scaling, Amazon SQS, and Amazon SNS to manage traffic and communication.
+
