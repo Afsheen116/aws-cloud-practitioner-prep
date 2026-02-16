@@ -9,7 +9,7 @@ The goal is to build strong foundational knowledge in cloud computing, AWS core 
 - [x] Module 1 – Introduction to Cloud
 - [x] Module 2 – Compute in the Cloud
 - [x] Module 3 – Exploring Compute Services 
-- [ ] Module 4 – Going Global
+- [x] Module 4 – Going Global
 - [ ] Module 5 – Storage & Databases
 - [ ] Module 6 – Security
 - [ ] Module 7 – Monitoring & Scaling
@@ -40,5 +40,11 @@ AZs consist of one or more data centers inside it with redundant power , network
 I learned  about compute,   how Amazon EC2 and cloud resources help scale applications.  Gained knowledge of EC2 instance types, pricing options, and how to choose the best instance types for your unique business needs, also became familiar with using AWS tools and services like Elastic Load Balancing, Amazon EC2 Auto Scaling, Amazon SQS, and Amazon SNS to manage traffic and communication.
 ## ☁️ Module 3 – Exploring Compute Services 
 This module gave me a practical understanding of AWS compute services, so we  can choose the right tools for your applications. I  learned when to use fully managed options like Lambda or Fargate, and when full control with Amazon EC2 made sense.  Explored how containers solve deployment consistency issues and how AWS services, like Amazon ECS and Amazon EKS, simplify managing and scaling containerized applications , also discovered services like Elastic Beanstalk, AWS Batch, Lightsail, and Outposts, and how each supported specific use cases, from basic web hosting to large-scale batch processing or hybrid cloud environments.
-
+## ☁️ Module 4 – Exploring Compute Services 
+In this section of the training, i learned more about the AWS Global Infrastructure. I learned about choosing a Region, the value of edge locations, and how to use services such as CloudFormation to streamline and automate deployment.
+Key points to remember while choosing region:
+1)Compliance 
+2)Proximity
+3)Feature availability 
+4)Pricing
 
