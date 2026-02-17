@@ -10,7 +10,7 @@ The goal is to build strong foundational knowledge in cloud computing, AWS core 
 - [x] Module 2 – Compute in the Cloud
 - [x] Module 3 – Exploring Compute Services 
 - [x] Module 4 – Going Global
-- [ ] Module 5 – Storage & Databases
+- [x] Module 5 – Networking
 - [ ] Module 6 – Security
 - [ ] Module 7 – Monitoring & Scaling
 - [ ] Module 8 – Pricing & Support
@@ -47,4 +47,7 @@ Key points to remember while choosing region:
 2)Proximity
 3)Feature availability 
 4)Pricing
+## ☁️ Module 5 – Networking
+In this networking module, i  identified core networking components and how they connect in the AWS Cloud. i  covered the basics of a VPC, the way that we isolate our workload in AWS, gateways, network ACLs, and security groups. You also reviewed ways to connect to AWS through a VPN and Direct Connect, secure connections that are either encrypted over the public internet or exclusive connections used by  one individual alone .
+
 
